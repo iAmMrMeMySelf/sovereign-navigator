@@ -1,1 +1,1 @@
-# sovereign-navigator
+Sovereign Navigator — Initialization Point
